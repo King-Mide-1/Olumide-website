@@ -187,7 +187,7 @@ img {
    color: var(--dark-color);
 }
 .text-secondary {
-   color: var(--secondary-color);
+   color: var(--dark-color);
 }
 .text-dark {
    color: var(--dark-color);
